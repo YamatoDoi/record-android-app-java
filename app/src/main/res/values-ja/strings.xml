@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">録音アプリ</string>
+    <string name="start_record_button">開始</string>
+    <string name="stop_record_button">録音中\n停止</string>
+    <string name="playback">再生</string>
+    <string name="notice_record">※ 約30秒 録音できます</string>
+    <string name="usage_body">「開始」ボタンを押して、録音を開始します。\n話し終えたら、「録音中・停止」ボタンを押してください。\n録音した音声は、「再生」ボタンを押すことで何度でも聞くことができます。</string>
+    <string name="button_usage">使い方</string>
+    <string name="null_text" />
+</resources>

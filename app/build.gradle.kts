@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId = "jp.ac.aut.record_app"
-        minSdk = 19
+        minSdk = 21
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
@@ -23,6 +23,7 @@ android {
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
+            signingConfig = signingConfigs.getByName("debug")
         }
     }
     compileOptions {
