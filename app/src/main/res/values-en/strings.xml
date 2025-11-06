@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recording App</string>
+    <string name="start_record_button">Start</string>
+    <string name="stop_record_button">Recording\nStop</string>
+    <string name="playback">Play Back</string>
+    <string name="notice_record">※ CAN RECORD ABOUT 30s</string>
+    <string name="usage_body">Press the [Start] button and speak the content you want to record.\nWhen you\'re finished, press the [Recording/Stop] button.\nYou can listen to the recorded audio as many times as you like by pressing the [Play Back] button.</string>
+    <string name="button_usage">Usage</string>
+    <string name="null_text" />
+
+</resources>
